@@ -2,6 +2,7 @@
   Material do curso de Java
   @author Prof. Martin Morães
   @link https://github.com/E-Arcadia/
+  @link http://escolaarcadia.blogspot.com.br/
   @e-mail escola.arcadia@gmail.com
  */
 
